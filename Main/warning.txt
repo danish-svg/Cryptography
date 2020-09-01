@@ -1,0 +1,3 @@
+Dont's mess around with that key.key file.
+And if you already did something with key.key then that's fine too.
+Clone the repo. again and decode your files.
