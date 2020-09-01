@@ -1,0 +1,7 @@
+Python installed. xD
+
+Cryptography Library
+ - pip install cryptography (for Windows)
+ - sudo pip3 install cryptography (for Linux)
+ And I think Mac OS's command is also the same as linux command.
+ I can be wrong too.
